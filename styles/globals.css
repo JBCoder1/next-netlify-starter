@@ -23,9 +23,9 @@ main {
 
   
  .flavor-container {
- 	display: flex;
+ 	display: block;
  	width: 80%;
- 	border: 15px solid green;
+ 	border: 3px solid black;
  	align-items: center;
  	align-content: center;
  }
