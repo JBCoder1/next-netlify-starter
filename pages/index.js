@@ -17,9 +17,9 @@ export default function Home() {
         </p>
       </main>
       
-        <div class="flavor-container">
-          <h1 class = "flavor-name"> Rocky Road </h1>
-          <p class = "flavor-description"> Marshmallows and nuts and stuff in icecream. It is extraordinarily good. It is a must have immediately.</p>
+        <div class="flavor.flavor-container">
+          <h1 class = "flavor.flavor-name"> Rocky Road </h1>
+          <p class = "flavor.flavor-description"> Marshmallows and nuts and stuff in icecream. It is extraordinarily good. It is a must have immediately.</p>
         </div>
       
       <Footer />
