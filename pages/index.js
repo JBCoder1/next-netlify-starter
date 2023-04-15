@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hello!" />
         <p className="description">
-          This is text, yo.
+          This is text, yo yoooooo.
         </p>
       </main>
     <img src = "public/Screen Shot 2021-10-20 at 6.35.39 PM.png">
