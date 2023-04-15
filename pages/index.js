@@ -16,6 +16,7 @@ export default function Home() {
           This is text.
         </p>
       </main>
+    <img src = "public/Screen Shot 2021-10-20 at 6.35.39 PM.png">
       
         <div class="flavor-container">
           <h1 class = "flavor-name"> Rocky Road </h1>
