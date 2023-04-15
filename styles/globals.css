@@ -17,6 +17,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: #f70010;
 }
 
 code {
