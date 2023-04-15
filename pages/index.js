@@ -16,9 +16,11 @@ export default function Home() {
           This is text.
         </p>
       </main>
-      <flavor class="flavor-container">
-        <h1 class = "flavor-name"> Rocky Road </h1>
-        <p class = "flavor-description"> Marshmallows and nuts and stuff in icecream. It is extraordinarily good. It is a must have immediately.</p>
+      <flavor>
+        <div class="flavor-container">
+          <h1 class = "flavor-name"> Rocky Road </h1>
+          <p class = "flavor-description"> Marshmallows and nuts and stuff in icecream. It is extraordinarily good. It is a must have immediately.</p>
+        </div>
       </flavor>
       <Footer />
     </div>
