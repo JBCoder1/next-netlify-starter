@@ -25,7 +25,7 @@ flavor {
   .flavor-container {
     display: flex;
     width: 80%;
-    border: 1px solid #050505;
+    border: 15px solid green;
     align-items: center;
     align-content: center;
   }
